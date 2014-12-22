@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<% ${1:@things}.each do |${2:thing}| %>
+<% ${1:@collection}.each do |${2:variable}| %>
 	$0
 <% end %>
 ]]></content>
