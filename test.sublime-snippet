@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+test "should ${1:do something}" do
+	$2
+end$0
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>test</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>meta.rails.functional_test,meta.rails.unit_test</scope>
+	<description>test "should do something" do</description>
+</snippet>
