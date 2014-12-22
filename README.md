@@ -1,1 +1,1 @@
-This is a form of [matthewrobertson/ERB-Sublime-Snippets](https://github.com/matthewrobertson/ERB-Sublime-Snippets).
+This is a fork of [matthewrobertson/ERB-Sublime-Snippets](https://github.com/matthewrobertson/ERB-Sublime-Snippets).
