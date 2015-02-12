@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-test "should ${1:do something}" do
+test "${1:do something}" do
 	$2
 end$0
 ]]></content>
